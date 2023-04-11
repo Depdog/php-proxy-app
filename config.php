@@ -4,10 +4,10 @@
 $config = array();
 
 // a unique key that identifies this application - DO NOT LEAVE THIS EMPTY!
-$config['app_key'] = '';
+$config['app_key'] = 'dwefrt4frefdsaw';
 
 // a secret key to be used during encryption
-$config['encryption_key'] = '';
+$config['encryption_key'] = 'hhrfreh3bbdw';
 
 // URL running the proxy app
 //$config['app_url'] = 'https://www.mysampleproxy.com/proxyfolder/';
